@@ -41,8 +41,8 @@ credentials, cookies, or tokens.
 
 ```dotenv
 PORTAL_BASE_URL=https://urja-ops.flockenergy.tech
-PORTAL_USERNAME=replace-with-your-portal-username
-PORTAL_PASSWORD=replace-with-your-portal-password
+PORTAL_USERNAME=operator@urja.local
+PORTAL_PASSWORD=urja-ops-2026
 ```
 
 `app.config` requires all three variables to be non-empty. The current client
